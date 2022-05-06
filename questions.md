@@ -7,6 +7,7 @@ Javascript
 * Write a program for remove duplicates in Array ?
 * Write a program for first Non-repeating character in a string ?
 * What is closure ?
+* What is local storage ?
 
 <b>output of below code ?</b>
    
