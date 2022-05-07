@@ -8,6 +8,7 @@ Javascript
 * Write a program for first Non-repeating character in a string ?
 * What is closure ?
 * What is local storage ?
+* What is Prototype ?
 
 <b>output of below code ?</b>
    
@@ -27,4 +28,5 @@ NodeJs
 * How cluster works ?
 * What are cors ?
 * What is socket in Nodejs ?
+* What is the difference between chai and mocha ?
 
