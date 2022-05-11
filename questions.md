@@ -11,6 +11,7 @@ Javascript
 * What is Prototype ?
 * What is memoization in javascript ?
 * What is the reason behind that can modify properties of object declared by const ?
+* Why the output is false when we compare two objects ?
 
 <b>output of below code ?</b>
    
