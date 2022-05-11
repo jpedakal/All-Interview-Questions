@@ -12,8 +12,16 @@ Javascript
 * What is memoization in javascript ?
 * What is the reason behind that can modify properties of object declared by const ?
 * Why the output is false when we compare two objects ?
+* Write a program to give extra element in an array ?
 
-<b>output of below code ?</b>
+example:
+
+     let arr1 = [1, 2, 3, 4];
+     let arr2 = [1, 2, 3, 4, 5];
+     
+     output should be 5
+
+<b>What is the output of below programmes ?</b>
    
  ex1:
  
